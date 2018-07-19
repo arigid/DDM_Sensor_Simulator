@@ -7,7 +7,7 @@ Nothing fancy, basically the standard Post method, put together in a while loop 
 
 Next improvisation can be to pick token values from the downloaded gateway ticket file itself and put a Django front end.
 
-Feel free to clone, fork, improvise code, upload to your own repo and share! 
+Feel free to clone, fork, improvise code, add new feature, upload to YOUR own repo and share! 
 
 Cheers, 
 Arijit 
